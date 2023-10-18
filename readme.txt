@@ -1,4 +1,4 @@
-We write the database connection settings in the files:
+Write the database connection settings in the files:
 ini.php
 ini2.php
 ini3.php
