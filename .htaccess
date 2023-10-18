@@ -1,0 +1,3 @@
+php_flag register_globals on
+RewriteEngine On
+RewriteRule (.+)\.wml $1.php
